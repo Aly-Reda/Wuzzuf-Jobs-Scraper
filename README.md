@@ -1,5 +1,6 @@
 # Wuzzuf-Jobs-Scraper
 
+## Job Search
 ``` json
 {
          "attributes":{
@@ -92,6 +93,7 @@
          "type":"talentSearch"
       }
 ```
+## Job Details
 ``` json
 {
     "type": "job",
@@ -246,8 +248,7 @@
     }
 }
 ```
-
-
+## Company Details
 ``` json
 {
     "type": "company",
