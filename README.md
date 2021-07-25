@@ -1,4 +1,4 @@
-# Wuzzuf-Jobs-Scraper
+# Wuzzuf Jobs Scraper
 
 ## Job Search
 ``` json
