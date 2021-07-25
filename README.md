@@ -1,6 +1,6 @@
 # Wuzzuf-Jobs-Scraper
 
-'''json
+``` json
 {
          "attributes":{
             "computedFields":[
@@ -91,4 +91,5 @@
          },
          "type":"talentSearch"
       }
-'''
+```
+
